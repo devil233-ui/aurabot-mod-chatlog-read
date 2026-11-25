@@ -1,0 +1,16 @@
+{
+  "id": "chatlog-read",
+  "name": "查流水",
+  "version": "0.1.0",
+  "description": "给 DSH 会话（工作间/唤醒回合）一个带说话人的本地流水读口：按天翻 chatlog，每行带 who，天数字段默认全部。只读，且只放行主人开口的回合。",
+  "category": "chat",
+  "tags": ["qq", "聊天流水", "chatlog", "工作间", "aurabot"],
+  "author": "devil233-ui",
+  "license": "MIT",
+  "api": 1,
+  "minPluginVersion": "1.2.0",
+  "requires": [],
+  "capabilities": [],
+  "defaults": {},
+  "settings": []
+}
